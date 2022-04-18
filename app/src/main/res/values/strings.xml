@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mess App</string>
+    <string-array name="menu_card">
+        <item>Egg Roll</item>
+        <item>Chicken Roll</item>
+        <item>Paneer Roll</item>
+        <item>Egg Rice</item>
+        <item>Chicken Rice</item>
+        <item>Dosa</item>
+    </string-array>
+</resources>

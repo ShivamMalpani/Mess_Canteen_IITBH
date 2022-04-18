@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127670209515",
+    "project_id": "mess-canteen-b41b2",
+    "storage_bucket": "mess-canteen-b41b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127670209515:android:c5cee9cae9a92b888727ae",
+        "android_client_info": {
+          "package_name": "com.example.messapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127670209515-hd4fbiofbt16qajbiumgc1reri0hjuru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messapp",
+            "certificate_hash": "773b15470dc350653158f68fc97f5e2e771275eb"
+          }
+        },
+        {
+          "client_id": "127670209515-khu27v3l18metgvn2tfttnqt2jpfbudt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNCHILbU_81FtpxRgFhKqHSWIrmmTu34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127670209515-khu27v3l18metgvn2tfttnqt2jpfbudt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

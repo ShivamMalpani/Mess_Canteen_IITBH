@@ -1,4 +1,4 @@
-package com.example.mess_canteen;
+package com.example.firebaseexample;
 
 import org.junit.Test;
 

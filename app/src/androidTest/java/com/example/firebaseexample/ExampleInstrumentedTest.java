@@ -1,4 +1,4 @@
-package com.example.mess_canteen;
+package com.example.firebaseexample;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.mess_canteen", appContext.getPackageName());
+        assertEquals("com.example.firebaseexample", appContext.getPackageName());
     }
 }
